@@ -1,26 +1,116 @@
 ---
 ---
+@misc{kashyap2021domain,
+      title={Domain Divergences: a Survey and Empirical Analysis}, 
+      author={Ramesh Kashyap Abhinav and Hazarika Devamanyu and Kan Min-Yen and Zimmermann Roger},
+      year={2021},
+      eprint={2010.12198},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      pdf={https://arxiv.org/abs/2010.12198}, 
+      abbr={NAACL'21}
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+@inproceedings{ramesh-kashyap-etal-2021-analyzing,
+    title = "Analyzing the Domain Robustness of Pretrained Language Models, Layer by Layer",
+    author = "Ramesh Kashyap, Abhinav  and
+      Mehnaz, Laiba  and
+      Malik, Bhavitvya  and
+      Waheed, Abdul  and
+      Hazarika, Devamanyu  and
+      Kan, Min-Yen  and
+      Shah, Rajiv Ratn",
+    booktitle = "Proceedings of the Second Workshop on Domain Adaptation for NLP",
+    month = apr,
+    year = "2021",
+    address = "Kyiv, Ukraine",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.adaptnlp-1.23",
+    pages = "222--244",
+    abstract = "The robustness of pretrained language models(PLMs) is generally measured using performance drops on two or more domains. However, we do not yet understand the inherent robustness achieved by contributions from different layers of a PLM. We systematically analyze the robustness of these representations layer by layer from two perspectives. First, we measure the robustness of representations by using domain divergence between two domains. We find that i) Domain variance increases from the lower to the upper layers for vanilla PLMs; ii) Models continuously pretrained on domain-specific data (DAPT)(Gururangan et al., 2020) exhibit more variance than their pretrained PLM counterparts; and that iii) Distilled models (e.g., DistilBERT) also show greater domain variance. Second, we investigate the robustness of representations by analyzing the encoded syntactic and semantic information using diagnostic probes. We find that similar layers have similar amounts of linguistic information for data from an unseen domain.",
+    abbr={AdaptNLP@EACL},
+    poster={https://drive.google.com/file/d/1zo48l0x_veuZsEEra-_7Zv8-6Qco3Dvc/view?usp=sharing}
 }
+
+@inproceedings{ramesh-kashyap-kan-2020-sciwing,
+    title = "{S}ci{WING}{--} A Software Toolkit for Scientific Document Processing",
+    author = "Ramesh Kashyap, Abhinav  and
+      Kan, Min-Yen",
+    booktitle = "Proceedings of the First Workshop on Scholarly Document Processing",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.sdp-1.13",
+    doi = "10.18653/v1/2020.sdp-1.13",
+    pages = "113--120",
+    abstract = "We introduce SciWING, an open-source soft-ware toolkit which provides access to state-of-the-art pre-trained models for scientific document processing (SDP) tasks, such as citation string parsing, logical structure recovery and citation intent classification. Compared to other toolkits, SciWING follows a full neural pipeline and provides a Python inter-face for SDP. When needed, SciWING provides fine-grained control for rapid experimentation with different models by swapping and stacking different modules. Transfer learning from general and scientific documents specific pre-trained transformers (i.e., BERT, SciBERT, etc.) can be performed. SciWING incorporates ready-to-use web and terminal-based applications and demonstrations to aid adoption and development. The toolkit is available from http://sciwing.io and the demos are available at http://rebrand.ly/sciwing-demo.",
+    abbr={SDP@EMNLP},
+    html={https://slideslive.com/38940731/sciwing-a-software-toolkit-for-scientific-document-processing}, 
+    pdf={https://www.aclweb.org/anthology/2020.sdp-1.13.pdf}, 
+    code={https://github.com/abhinavkashyap/sciwing}
+}
+
+@inproceedings{10.1145/3395027.3419596,
+author = {Tian, Shi and Kashyap, Abhinav Ramesh and Kan, Min-Yen},
+title = {ServiceMarq: Extracting Service Contributions from Call for Papers},
+year = {2020},
+isbn = {9781450380003},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3395027.3419596},
+doi = {10.1145/3395027.3419596},
+abstract = {In an era, where large numbers of academic research papers are submitted to conferences and journals, the voluntary services of academicians to manage them, is indispensable. The call for contributions of research papers -- through an e-mail or as a webpage, not only solicits research works from scientists, but also lists the names of the researchers and their roles in managing the conference. Tracking such information which showcases the researchers' leadership qualities is becoming increasingly important. Here we present ServiceMarq - a system which proactively tracks service contributions to conferences. It performs focused crawling for website-based call for papers, and integrates archival and natural language processing libraries to achieve both high precision and recall in extracting information. Our results indicate that aggregated service contribution gives an alternative but correlated picture of institutional quality compared against standard bibliometrics. In addition, we have developed a proof of concept website to track service contributions and is available at https://cfp-mining-fe.herokuapp.com and our github repo is available at https://github.com/shitian007/cfp-mining},
+booktitle = {Proceedings of the ACM Symposium on Document Engineering 2020},
+articleno = {20},
+numpages = {4},
+location = {Virtual Event, CA, USA},
+series = {DocEng '20}, 
+abbr={DocEng}, 
+code={https://github.com/WING-NUS/servicemarq}, 
+pdf={https://dl.acm.org/doi/10.1145/3395027.3419596}
+
+}
+
+
+@article{weth2019closeup,
+  title={CloseUp - A Community-Driven Live Online Search Engine},
+  author={Weth, Christian Von Der and Abdul, Ashraf and Kashyap, Abhinav R and Kankanhalli, Mohan},
+  journal={ACM Transactions on Internet Technology (TOIT)},
+  volume={},
+  number={},
+  pages={},
+  year={2019},
+  publisher={ACM}, 
+  pdf={https://dl.acm.org/authorize?N680484},  
+  html={https://youtu.be/BJMh2jZzmAA}, 
+  abbr={TOIT}
+
+}
+
+@inproceedings{10.1145/3201064.3202917,
+author = {Ramesh Kashyap, Abhinav and von der Weth, Christian and Cheng, Zhiyong and Kankanhalli, Mohan},
+title = {EPICURE - Aspect-Based Multimodal Review Summarization},
+year = {2018},
+isbn = {9781450355636},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3201064.3202917},
+doi = {10.1145/3201064.3202917},
+abstract = {Restaurant reviews are popular and a valuable source of information. Often, large number of reviews are written for restaurants which warrants the need for automated summarization systems. In this paper we present epicure, a novel text and image summarization platform. For the summarization of opinionated content like reviews, considering different aspects have largely been ignored, and we address this by creating balanced reviews for different aspects like food and service. We argue that traditional criteria for extractive review summarization such as coverage and diversity have limited applicability. We draw on the power and usefulness of submodular functions for extractive summarization and introduce novel submodular functions such as importance, freshness, purity, trustworthiness and balanced opinion. We are also one of the first to provide an image summary for diffeerent aspects of a restaurant by mapping text to images using a multimodal neural network, for which we provide initial experiments. We show the effectiveness of our platform by evaluating it against strong baselines and also use crowdsourcing experiments for a subjective comparison of our approach with existing works.},
+booktitle = {Proceedings of the 10th ACM Conference on Web Science},
+pages = {365–369},
+numpages = {5},
+keywords = {user study, text classification, sentiment analysis, sentence-to-image mapping, online reviews, multimodal summarization},
+location = {Amsterdam, Netherlands},
+series = {WebSci '18}, 
+abbr={WebSci}, 
+pdf={https://dl.acm.org/doi/10.1145/3201064.3202917}
+}
+
+
+
 
 @article{PhysRev.47.777,
   abbr={PhysRev},

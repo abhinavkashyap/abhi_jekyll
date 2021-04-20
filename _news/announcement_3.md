@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-08-01
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+1 [demo paper](https://www.aclweb.org/anthology/2020.sdp-1.13/){:target="\_blank"} accepted at the [SDP](https://ornlcda.github.io/SDProc/){:target="\_blank"} workshop at EMNLP. We release a new toolkit for scientific document processing.
