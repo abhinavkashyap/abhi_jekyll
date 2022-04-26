@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a third year PhD student advised by Prof [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/){:target="\_blank"}. I also closely collaborate with [Devamanyu Hazarika](https://www.devamanyu.com){:target="\_blank"}. My research is on Natural Language Processing. I focus on making NLP models robust under different domains. NLP models do not perform well when presented with data from different domains and my focus is on Domain Adaptation for NLP. I am also interested in Scholarly Document Processing.
+I am a fourth year PhD student advised by Prof [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/){:target="\_blank"}. I also closely collaborate with [Devamanyu Hazarika](https://www.devamanyu.com){:target="\_blank"}. My research is on Natural Language Processing. I focus on making NLP models robust under different domains. NLP models do not perform well when presented with data from different domains and my focus is on Domain Adaptation for NLP. I am also interested in Scholarly Document Processing.
 
 ### Previously,
 
