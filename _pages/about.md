@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Abhinav Ramesh Kashyap is a fourth-year Ph.D. student advised by Prof [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/){:target="\_blank"} and also closely collaborates with [Devamanyu Hazarika](https://www.devamanyu.com){:target="\_blank"}. His research is on Natural Language Processing. Specifically he focuses on making NLP models robust under different domains, also called Domain Adaptation. His other interests include Scholarly Document Processing which helps extract information from scholarly articles.
+Abhinav Ramesh Kashyap is a fourth-year Ph.D. student advised by Prof [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/){:target="\_blank"} and also closely collaborates with [Devamanyu Hazarika](https://www.devamanyu.com){:target="\_blank"}. His research is on Natural Language Processing. Specifically he focuses on making NLP models robust under different domains, also called Domain Adaptation. He is also interested in Scholarly Document Processing which helps extract information from scholarly articles.
 
 ### Previously,
 
