@@ -13,11 +13,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a fourth year PhD student advised by Prof [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/){:target="\_blank"}. I also closely collaborate with [Devamanyu Hazarika](https://www.devamanyu.com){:target="\_blank"}. My research is on Natural Language Processing. I focus on making NLP models robust under different domains. NLP models do not perform well when presented with data from different domains and my focus is on Domain Adaptation for NLP. I am also interested in Scholarly Document Processing.
+Abhinav Ramesh Kashyap is a fourth-year Ph.D. student advised by Prof [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/){:target="\_blank"} and also closely collaborates with [Devamanyu Hazarika](https://www.devamanyu.com){:target="\_blank"}. His research is on Natural Language Processing. Specifically he focuses on making NLP models robust under different domains, also called Domain Adaptation. He is interested in Scholarly Document Processing which helps extract information from scholarly articles.
 
 ### Previously,
 
-I completed my Masters from the National University of Singapore. My master's thesis involved extractive summarization specific to restaurant reviews. I was part of the [Sensor Enhanced Social Media(SeSaMe)](){:target="\_blank"} lab with [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/){:target="\_blank"}
+Abhinav completed his Master's degree from the National University of Singapore. His master's thesis involved extractive summarization specific to restaurant reviews. He was part of the [Sensor Enhanced Social Media(SeSaMe)](){:target="\_blank"} lab with [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/){:target="\_blank"}
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
