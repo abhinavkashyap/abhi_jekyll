@@ -1,3 +1,5 @@
 [[redirects]]
-  from = "/"
-  to = "abhinavkashyap.bio"
+  from = "https://www.abhinavkashyap.io"
+  to = "https://www.abhinavkashyap.bio"
+  status = 301
+  force = true
