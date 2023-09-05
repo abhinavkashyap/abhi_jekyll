@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://www.abhinavkashyap.io"
-  to = "https://www.abhinavkashyap.bio"
+  from = "https://abhinavkashyap.io/"
+  to = "https://abhinavkashyap.bio/"
   status = 301
   force = true
